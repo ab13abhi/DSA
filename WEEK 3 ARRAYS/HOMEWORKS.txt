@@ -1,0 +1,14 @@
+Left rotate an array by 1 element
+majority element in an array
+buy and sell stock LEVEL 1
+
+
+sort 0's 1's 2's 
+move all -ve number to one side of the array
+find duplicate element
+find missing element 
+find first repeating element
+find common element in 3 arrays 
+factorial of large numbers 
+spiral print 
+wave print

@@ -1,0 +1,13 @@
+Amount of time taken by an alogorithm to run as a function of length of input.
+
+Big O: Upper bound
+Theta: Average Case
+Omega: Lower bound
+
+***Big O gives wrost se wrost case
+O(1)    : Constant time 
+O(n)    : Linear time
+O(log n): Logarithmic time
+O(n^2)  : Quadratic time
+O(n^3)  : Cubic time
+

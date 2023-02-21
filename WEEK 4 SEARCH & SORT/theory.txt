@@ -1,0 +1,21 @@
+BINARY SEARCH:
+
+->On 1000 elements there are 10 comparisons
+->order must be monotonic
+->find start
+->find end
+->find middle = start + (end - start)/2
+
+->Time Complexity is going n/2-->n/4-->n/8
+.... so on.
+
+->Using pre-defined STL template
+if(binary_search(v.begin(), v.end(), 30)){
+    cout << "Found" << endl;
+}
+
+->IMPORTANT POINT 
+if doing (s = mid + 1) or (e = mid - 1)
+you can do (s <= e).
+But if doing (s = mid) or (e = mid)
+you can use only (s < e), else stuck in infinite loop.
