@@ -2,3 +2,10 @@ class 1:
 find pivot 
 search in a rotated & sorted array 
 squareroot 
+
+
+
+
+
+
+JHG FIYCGIFGH
