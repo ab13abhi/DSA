@@ -9,10 +9,10 @@ int sqrt(int x)
     while (s <= e)
     {
         int sq = mid * mid;
-        
+
         if (x == sq)
             return mid;
-        
+
         if (sq < x)
         {
             ans = -1;
@@ -33,6 +33,20 @@ int main()
     cin >> x;
 
     cout << sqrt(x);
-    
+
+    // int precision;
+    // cout << "Enter the number of floating digits in precison "<<endl;
+    // cin >> precision;
+
+    // double step = 0.1;
+    // double finalAns = ans;
+    // for(int i=0; i<precision; i++) {
+
+    //   for(double j=finalAns; j*j<=n; j = j + step) {
+    //       finalAns = j;
+    //   }
+    //   step = step / 10;
+    // }
+    // cout << "Final ans is. "<< finalAns << endl;
     return 0;
 }
