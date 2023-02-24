@@ -1,4 +1,4 @@
-// HOMEWORK
+// HOMEWORK not done
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -35,7 +35,7 @@ int main()
 {
     vector<int> v{1, 3, 4, 4, 4, 4, 4, 6, 7};
     int target = 4;
-    int firstOccurance = fmN(v, target);
-    cout << firstOccurance;
+    int missingElement = fmN(v, target);
+    cout << missingElement;
     return 0;
 }

@@ -19,7 +19,8 @@ int main()
         int element = matrix[mid/cols][mid%cols];
 
         if(element == target){
-            return true;
+            cout << "found " << element;
+            break;
         }
         else if(element < target){
             s = mid + 1;
@@ -29,6 +30,5 @@ int main()
         }
         mid = s + (e - s)/2;
     }
-    return false;
     return 0;
 }

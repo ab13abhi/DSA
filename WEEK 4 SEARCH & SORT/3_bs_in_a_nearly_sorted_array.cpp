@@ -38,7 +38,7 @@ int bS(vector<int> nums, int target)
 int main()
 {
     vector<int> nums = {10, 3, 40, 20, 50, 80, 70};
-    int target = 40;
+    int target = 3;
     int ans = bS(nums, target);
     cout << ans << endl;
     return 0;
