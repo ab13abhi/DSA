@@ -1,0 +1,26 @@
+Valid Anagrams
+Reverse only Letters
+Longest Common Prefix 
+Reverse Vowels of a String
+Isomorphic String
+Reorganise String
+Group Anagrams
+Longest Palindrome Substring
+Find index of first Occurance in a String
+String to Integer
+String Comparision
+Integer to Roman
+ZigZag Conversion
+=================================
+
+=================================
+-------------EXTRAS--------------
+=================================
+
+largest number 
+Custom sort string 
+verify alein dict
+longest word in dict through deleting
+
+
+
