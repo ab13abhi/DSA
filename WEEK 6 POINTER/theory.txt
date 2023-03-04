@@ -1,0 +1,12 @@
+int* ptr: ptr is a pointer to interger data.
+*ptr - value stored at location in ptr
+&ptr - address of ptr
+&a - address of a
+a - value of a 
+ptr - value of ptr
+
+
+
+***pointer stores the address therefore the size of pointer is 8 or system architecture.
+
+Segmentation fault- Access some other memory.
